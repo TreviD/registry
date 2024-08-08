@@ -2,7 +2,7 @@ vcpkg_from_github(
         OUT_SOURCE_PATH SOURCE_PATH
         REPO zhaoxiaoxuannj/fiscotest
         REF cb3671d0aa33a5d382e4111986c955f4f6db131a
-        SHA512 156691a24fd77f087ef4f552b7365fcc094fc9cf9943df337e301474f8c50a436e34c05db7303a11ac148568fbc66f0f3191d99f6fb377f41cf49daf86846324
+        SHA512 712b0708562e19f3cf281112b70b0a3cded77d52b5b02ef8649da1e4245ae0af651a2e41d0b294f2f34bdd3e9c73ce3a0cac5b20889a8f2dbccbd58fe2f90ad5
         HEAD_REF master
 )
 
