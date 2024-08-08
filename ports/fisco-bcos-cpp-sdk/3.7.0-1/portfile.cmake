@@ -1,8 +1,8 @@
 vcpkg_from_github(
         OUT_SOURCE_PATH SOURCE_PATH
         REPO TreviD/FISCO-BCOS
-        REF d8e4503e3fcf15b7050ec4845eb6c6612bc5ca1a
-        SHA512 4ba342afa62f1afbd58698ec2b095acb87851a9b111759671d7fc9efb3bb6b213a8666fadbe054b0149728f41e99ac92bff28732eba3ecbf96cd6fd634788559
+        REF 642d91ab3c2c8cb5cd8a1c542a9ab92669b7f9db
+        SHA512 d5e622819b2ad8535feae1a648449a8ba1c1d3740b2ed2574788a85bbb9f2c634c6f9a7a8fe6fead6eb4c0114cb18318a8c503c5b9ba1d1590d9bfab166fda5e
         HEAD_REF master
 )
 
