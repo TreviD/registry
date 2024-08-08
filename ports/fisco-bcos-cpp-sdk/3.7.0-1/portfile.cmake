@@ -1,8 +1,8 @@
 vcpkg_from_github(
         OUT_SOURCE_PATH SOURCE_PATH
-        REPO zhaoxiaoxuannj/fiscotest
-        REF cb3671d0aa33a5d382e4111986c955f4f6db131a
-        SHA512 712b0708562e19f3cf281112b70b0a3cded77d52b5b02ef8649da1e4245ae0af651a2e41d0b294f2f34bdd3e9c73ce3a0cac5b20889a8f2dbccbd58fe2f90ad5
+        REPO TreviD/FISCO-BCOS
+        REF d8e4503e3fcf15b7050ec4845eb6c6612bc5ca1a
+        SHA512 4ba342afa62f1afbd58698ec2b095acb87851a9b111759671d7fc9efb3bb6b213a8666fadbe054b0149728f41e99ac92bff28732eba3ecbf96cd6fd634788559
         HEAD_REF master
 )
 

@@ -1,7 +1,7 @@
 {
   "name": "fisco-bcos-cpp-sdk",
   "version-string": "3.7.0-1",
-  "homepage": "https://github.com/zhaoxiaoxuannj/fiscotest",
+  "homepage": "https://github.com/TreviD/FISCO-BCOS",
   "description": "FISCO BCOS",
   "dependencies": [
     {
